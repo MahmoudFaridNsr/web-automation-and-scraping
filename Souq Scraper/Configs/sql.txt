@@ -1,0 +1,4 @@
+host=localhost
+db=shop
+user=myadmin
+password=123456
